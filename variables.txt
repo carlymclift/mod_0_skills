@@ -1,0 +1,16 @@
+var food= "sushi"
+var isDelicious = true
+
+var changeFood: food= "pizza"
+
+var num2= 100
+var num7= 50
+var quotient= 2
+
+var songs= ["Here for You", "Jupiter 4", "Holding Me"]
+songs.shift();
+console.log(songs);
+
+var food="sushi"
+var charCount = food
+console.log(charCount);
