@@ -10,7 +10,7 @@ sections (array)
 
 ### Methods:
 addProtectant (changes material attribute)
-calculateSize (length * width)
+calculateSize (length * width )
 addPages (changes numberOfPages attribute)
 update (changes upToDate to true)
 addSection (adds to sections array)
