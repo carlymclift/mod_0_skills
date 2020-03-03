@@ -1,6 +1,6 @@
 ## Object: BreckenridgeBreweryRestaurantAndBar
 
-### Attributes and there Values:
+### Attributes and there Values: 
 color "brown"
 
 length 20.5
